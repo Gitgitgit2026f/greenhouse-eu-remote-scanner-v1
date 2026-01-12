@@ -1,5 +1,12 @@
 boards:
-  - name: n8n
-    board: n8n
-  - name: reedsy
-    board: reedsy
+  - name: Highmetric
+    board: highmetric
+
+  - name: OpenZeppelin
+    board: openzeppelin
+
+  - name: YLD
+    board: yld
+
+  - name: Circle
+    board: circleso
