@@ -34,7 +34,8 @@ jobs:
 
       - name: Run scanner
         run: |
-          python scripts/scan_greenhouse.py --boards boards.yaml --outdir output
+          python scripts/scan_greenhouse.py --boards boards.yaml --outdir output --debug
+
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
