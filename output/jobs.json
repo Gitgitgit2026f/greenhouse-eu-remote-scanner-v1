@@ -1,0 +1,90 @@
+{
+  "generated_at": "2026-01-12T11:24:32Z",
+  "counts": {
+    "boards": 4,
+    "raw_per_board": [
+      [
+        "highmetric",
+        4200
+      ],
+      [
+        "openzeppelin",
+        1400
+      ],
+      [
+        "yld",
+        2600
+      ],
+      [
+        "circleso",
+        2200
+      ]
+    ],
+    "matched_per_board": [
+      [
+        "highmetric",
+        0
+      ],
+      [
+        "openzeppelin",
+        0
+      ],
+      [
+        "yld",
+        5
+      ],
+      [
+        "circleso",
+        0
+      ]
+    ],
+    "matches_written": 5
+  },
+  "jobs": [
+    {
+      "board_name": "YLD",
+      "board": "yld",
+      "id": 4611906101,
+      "title": "Contract Senior Software Engineer (Python/AWS) ",
+      "location": "Remote (EU)",
+      "updated_at": "2026-01-09T06:32:00-05:00",
+      "url": "https://job-boards.eu.greenhouse.io/yld/jobs/4611906101"
+    },
+    {
+      "board_name": "YLD",
+      "board": "yld",
+      "id": 4696835101,
+      "title": "Contract Multi-Cloud/Go Platform Engineer - UK based",
+      "location": "Remote EU",
+      "updated_at": "2025-12-18T14:00:33-05:00",
+      "url": "https://job-boards.eu.greenhouse.io/yld/jobs/4696835101"
+    },
+    {
+      "board_name": "YLD",
+      "board": "yld",
+      "id": 4728134101,
+      "title": "Contract Systems Engineer (Rust)",
+      "location": "Remote EU",
+      "updated_at": "2025-12-12T10:02:48-05:00",
+      "url": "https://job-boards.eu.greenhouse.io/yld/jobs/4728134101"
+    },
+    {
+      "board_name": "YLD",
+      "board": "yld",
+      "id": 4302334101,
+      "title": "Contract Senior Software Engineer (React/Node)",
+      "location": "Remote EU",
+      "updated_at": "2025-12-10T10:10:01-05:00",
+      "url": "https://job-boards.eu.greenhouse.io/yld/jobs/4302334101"
+    },
+    {
+      "board_name": "YLD",
+      "board": "yld",
+      "id": 4722581101,
+      "title": "Contract Senior Golang Engineer - UK/Europe based",
+      "location": "Remote EU",
+      "updated_at": "2025-12-10T10:10:01-05:00",
+      "url": "https://job-boards.eu.greenhouse.io/yld/jobs/4722581101"
+    }
+  ]
+}
