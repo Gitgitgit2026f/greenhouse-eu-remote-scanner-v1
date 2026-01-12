@@ -114,34 +114,43 @@ def is_excluded(text: str) -> bool:
 
 def eu_remote_match(location: str, secondary_text: str) -> bool:
     """
-    Conservative, location-first rule:
-    - Exclude if location/secondary includes US/Canada/APAC/LatAm etc.
-    - Must be remote-ish in location OR (location is "Hybrid/Remote" style)
-    - Must be EU-ish in location, OR:
-        - location is global remote, AND EU-ish appears in secondary_text
+    Conservative but practical:
+    - Exclude if location/secondary includes US/Canada/APAC/LatAm/India etc.
+    - Must be remote-ish in location (Remote / Hybrid Remote)
+    - Accept if:
+        A) location itself has EU-ish (Europe/EU/EMEA/CET/CEST), OR
+        B) location is generic remote, AND secondary has EU-ish,
+           AND secondary does NOT contain explicit non-EU regions.
     """
     loc = norm(location)
     sec = norm(secondary_text)
 
+    # hard excludes
     if is_excluded(loc) or is_excluded(sec):
         return False
 
-    remote_in_loc = is_remote(loc)
-    eu_in_loc = is_euish(loc) or ("emea" in loc)  # emea is also in EU_TOKENS but keep explicit
-
-    if not remote_in_loc:
+    # require remote in location (prevents local-only roles)
+    if not is_remote(loc):
         return False
 
-    # If location explicitly mentions Europe/EMEA/CET -> accept
-    if eu_in_loc:
+    # direct EU in location
+    if is_euish(loc) or ("emea" in loc):
         return True
 
-    # If location is generic "Remote" or "Remote (Global)" then require EU signal elsewhere
-    if loc in GLOBAL_REMOTE_LOCATIONS:
-        return is_euish(sec) or ("emea" in sec)
+    # generic remote -> rely on secondary EU signals
+    if loc in GLOBAL_REMOTE_LOCATIONS or loc == "remote":
+        # must have EU hint somewhere else
+        if not (is_euish(sec) or ("emea" in sec)):
+            return False
 
-    # Otherwise: not EU-specific
+        # extra guard: if secondary mentions obvious non-EU regions, reject
+        if contains_any(sec, ["us", "usa", "united states", "canada", "india", "apac", "australia", "new zealand", "latam"]):
+            return False
+
+        return True
+
     return False
+
 
 
 # --- Greenhouse API ---
