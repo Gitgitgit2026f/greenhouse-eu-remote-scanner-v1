@@ -10,3 +10,13 @@ boards:
 
   - name: Circle
     board: circleso
+
+  - name: Hivemq
+    board: Hivemq
+
+  - name: Parloa
+    board: Parloa
+
+  - name: Charles
+    board: charles
+    
