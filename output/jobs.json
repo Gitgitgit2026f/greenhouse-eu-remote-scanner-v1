@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-14T08:02:09Z",
+  "generated_at": "2026-01-14T14:56:17Z",
   "counts": {
     "boards": 7,
     "raw_per_board": [
       [
         "highmetric",
-        4000
+        3800
       ],
       [
         "openzeppelin",
@@ -25,11 +25,11 @@
       ],
       [
         "Parloa",
-        7000
+        7200
       ],
       [
         "charles",
-        800
+        600
       ]
     ],
     "matched_per_board": [
@@ -55,23 +55,41 @@
       ],
       [
         "Parloa",
-        7
+        8
       ],
       [
         "charles",
         0
       ]
     ],
-    "matches_written": 15
+    "matches_written": 16
   },
   "jobs": [
+    {
+      "board_name": "Parloa",
+      "board": "Parloa",
+      "id": 4753275101,
+      "title": "Strategic Engagement Manager - EMEA",
+      "location": "Berlin Office; London; Munich Office; Remotely in Europe ",
+      "updated_at": "2026-01-14T06:39:45-05:00",
+      "url": "https://job-boards.eu.greenhouse.io/parloa/jobs/4753275101"
+    },
+    {
+      "board_name": "Parloa",
+      "board": "Parloa",
+      "id": 4751504101,
+      "title": "Senior Forward Deployed Engineer - EMEA (f/m/d)",
+      "location": "Remotely in Europe ",
+      "updated_at": "2026-01-14T05:07:42-05:00",
+      "url": "https://job-boards.eu.greenhouse.io/parloa/jobs/4751504101"
+    },
     {
       "board_name": "Parloa",
       "board": "Parloa",
       "id": 4752757101,
       "title": "Business Development Executive - Southern Europe (f/m/d)*",
       "location": "Remotely in Europe ",
-      "updated_at": "2026-01-13T16:12:44-05:00",
+      "updated_at": "2026-01-14T04:05:15-05:00",
       "url": "https://job-boards.eu.greenhouse.io/parloa/jobs/4752757101"
     },
     {
@@ -109,15 +127,6 @@
       "location": "Remotely in Europe ",
       "updated_at": "2026-01-12T10:35:33-05:00",
       "url": "https://job-boards.eu.greenhouse.io/parloa/jobs/4751245101"
-    },
-    {
-      "board_name": "Parloa",
-      "board": "Parloa",
-      "id": 4751504101,
-      "title": "Senior Forward Deployed Engineer (f/m/d)",
-      "location": "Remotely in Europe ",
-      "updated_at": "2026-01-12T08:55:33-05:00",
-      "url": "https://job-boards.eu.greenhouse.io/parloa/jobs/4751504101"
     },
     {
       "board_name": "Parloa",

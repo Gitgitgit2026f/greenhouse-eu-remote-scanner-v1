@@ -1,17 +1,18 @@
 # Greenhouse EU-remote jobs
 
-_Generated: 2026-01-14T08:02:09Z_
+_Generated: 2026-01-14T14:56:17Z_
 
-Total: **15**
+Total: **16**
 
 | Company | Title | Location | Updated | Link |
 |---|---|---|---:|---|
-| Parloa | Business Development Executive - Southern Europe (f/m/d)* | Remotely in Europe  | 2026-01-13T16:12:44-05:00 | [open](https://job-boards.eu.greenhouse.io/parloa/jobs/4752757101) |
+| Parloa | Strategic Engagement Manager - EMEA | Berlin Office; London; Munich Office; Remotely in Europe  | 2026-01-14T06:39:45-05:00 | [open](https://job-boards.eu.greenhouse.io/parloa/jobs/4753275101) |
+| Parloa | Senior Forward Deployed Engineer - EMEA (f/m/d) | Remotely in Europe  | 2026-01-14T05:07:42-05:00 | [open](https://job-boards.eu.greenhouse.io/parloa/jobs/4751504101) |
+| Parloa | Business Development Executive - Southern Europe (f/m/d)* | Remotely in Europe  | 2026-01-14T04:05:15-05:00 | [open](https://job-boards.eu.greenhouse.io/parloa/jobs/4752757101) |
 | Parloa | Enterprise Account Executive (f/m/d)* | Remotely in Europe  | 2026-01-13T08:57:54-05:00 | [open](https://job-boards.eu.greenhouse.io/parloa/jobs/4752593101) |
 | Parloa | Senior/Lead Solution Engineer (PreSales) Spain (w/m/d)* | Remotely in Europe  | 2026-01-12T10:35:53-05:00 | [open](https://job-boards.eu.greenhouse.io/parloa/jobs/4749704101) |
 | Parloa | Senior/Lead Solution Engineer (PreSales) Italy (w/m/d)* | Remotely in Europe  | 2026-01-12T10:35:45-05:00 | [open](https://job-boards.eu.greenhouse.io/parloa/jobs/4751249101) |
 | Parloa | Senior/Lead Solution Engineer (PreSales) France (w/m/d)* | Remotely in Europe  | 2026-01-12T10:35:33-05:00 | [open](https://job-boards.eu.greenhouse.io/parloa/jobs/4751245101) |
-| Parloa | Senior Forward Deployed Engineer (f/m/d) | Remotely in Europe  | 2026-01-12T08:55:33-05:00 | [open](https://job-boards.eu.greenhouse.io/parloa/jobs/4751504101) |
 | Parloa | Principal Software Engineer (f/m/d)* | Berlin Office; Remotely in Europe ; Remotely in Germany | 2026-01-12T05:59:20-05:00 | [open](https://job-boards.eu.greenhouse.io/parloa/jobs/4751058101) |
 | YLD | Contract Senior Software Engineer (Python/AWS)  | Remote (EU) | 2026-01-09T06:32:00-05:00 | [open](https://job-boards.eu.greenhouse.io/yld/jobs/4611906101) |
 | Hivemq | Senior Software Engineer | Europe Remote | 2025-12-30T04:39:39-05:00 | [open](https://job-boards.eu.greenhouse.io/hivemq/jobs/4001784101) |
