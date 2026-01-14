@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-01-14T07:01:08Z",
+  "generated_at": "2026-01-14T08:02:09Z",
   "counts": {
-    "boards": 4,
+    "boards": 7,
     "raw_per_board": [
       [
         "highmetric",
@@ -18,6 +18,18 @@
       [
         "circleso",
         2400
+      ],
+      [
+        "Hivemq",
+        1200
+      ],
+      [
+        "Parloa",
+        7000
+      ],
+      [
+        "charles",
+        800
       ]
     ],
     "matched_per_board": [
@@ -36,11 +48,86 @@
       [
         "circleso",
         0
+      ],
+      [
+        "Hivemq",
+        3
+      ],
+      [
+        "Parloa",
+        7
+      ],
+      [
+        "charles",
+        0
       ]
     ],
-    "matches_written": 5
+    "matches_written": 15
   },
   "jobs": [
+    {
+      "board_name": "Parloa",
+      "board": "Parloa",
+      "id": 4752757101,
+      "title": "Business Development Executive - Southern Europe (f/m/d)*",
+      "location": "Remotely in Europe ",
+      "updated_at": "2026-01-13T16:12:44-05:00",
+      "url": "https://job-boards.eu.greenhouse.io/parloa/jobs/4752757101"
+    },
+    {
+      "board_name": "Parloa",
+      "board": "Parloa",
+      "id": 4752593101,
+      "title": "Enterprise Account Executive (f/m/d)*",
+      "location": "Remotely in Europe ",
+      "updated_at": "2026-01-13T08:57:54-05:00",
+      "url": "https://job-boards.eu.greenhouse.io/parloa/jobs/4752593101"
+    },
+    {
+      "board_name": "Parloa",
+      "board": "Parloa",
+      "id": 4749704101,
+      "title": "Senior/Lead Solution Engineer (PreSales) Spain (w/m/d)*",
+      "location": "Remotely in Europe ",
+      "updated_at": "2026-01-12T10:35:53-05:00",
+      "url": "https://job-boards.eu.greenhouse.io/parloa/jobs/4749704101"
+    },
+    {
+      "board_name": "Parloa",
+      "board": "Parloa",
+      "id": 4751249101,
+      "title": "Senior/Lead Solution Engineer (PreSales) Italy (w/m/d)*",
+      "location": "Remotely in Europe ",
+      "updated_at": "2026-01-12T10:35:45-05:00",
+      "url": "https://job-boards.eu.greenhouse.io/parloa/jobs/4751249101"
+    },
+    {
+      "board_name": "Parloa",
+      "board": "Parloa",
+      "id": 4751245101,
+      "title": "Senior/Lead Solution Engineer (PreSales) France (w/m/d)*",
+      "location": "Remotely in Europe ",
+      "updated_at": "2026-01-12T10:35:33-05:00",
+      "url": "https://job-boards.eu.greenhouse.io/parloa/jobs/4751245101"
+    },
+    {
+      "board_name": "Parloa",
+      "board": "Parloa",
+      "id": 4751504101,
+      "title": "Senior Forward Deployed Engineer (f/m/d)",
+      "location": "Remotely in Europe ",
+      "updated_at": "2026-01-12T08:55:33-05:00",
+      "url": "https://job-boards.eu.greenhouse.io/parloa/jobs/4751504101"
+    },
+    {
+      "board_name": "Parloa",
+      "board": "Parloa",
+      "id": 4751058101,
+      "title": "Principal Software Engineer (f/m/d)*",
+      "location": "Berlin Office; Remotely in Europe ; Remotely in Germany",
+      "updated_at": "2026-01-12T05:59:20-05:00",
+      "url": "https://job-boards.eu.greenhouse.io/parloa/jobs/4751058101"
+    },
     {
       "board_name": "YLD",
       "board": "yld",
@@ -49,6 +136,15 @@
       "location": "Remote (EU)",
       "updated_at": "2026-01-09T06:32:00-05:00",
       "url": "https://job-boards.eu.greenhouse.io/yld/jobs/4611906101"
+    },
+    {
+      "board_name": "Hivemq",
+      "board": "Hivemq",
+      "id": 4001784101,
+      "title": "Senior Software Engineer",
+      "location": "Europe Remote",
+      "updated_at": "2025-12-30T04:39:39-05:00",
+      "url": "https://job-boards.eu.greenhouse.io/hivemq/jobs/4001784101"
     },
     {
       "board_name": "YLD",
@@ -85,6 +181,24 @@
       "location": "Remote EU",
       "updated_at": "2025-12-10T10:10:01-05:00",
       "url": "https://job-boards.eu.greenhouse.io/yld/jobs/4722581101"
+    },
+    {
+      "board_name": "Hivemq",
+      "board": "Hivemq",
+      "id": 4702333101,
+      "title": "Senior Fullstack Engineer (Node.js)",
+      "location": "Europe Remote",
+      "updated_at": "2025-11-13T03:24:05-05:00",
+      "url": "https://job-boards.eu.greenhouse.io/hivemq/jobs/4702333101"
+    },
+    {
+      "board_name": "Hivemq",
+      "board": "Hivemq",
+      "id": 4701746101,
+      "title": "Senior Fullstack Engineer",
+      "location": "Europe Remote",
+      "updated_at": "2025-11-13T03:23:42-05:00",
+      "url": "https://job-boards.eu.greenhouse.io/hivemq/jobs/4701746101"
     }
   ]
 }
