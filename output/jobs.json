@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-19T07:41:09Z",
+  "generated_at": "2026-01-19T14:57:19Z",
   "counts": {
     "boards": 7,
     "raw_per_board": [
       [
         "highmetric",
-        4000
+        3800
       ],
       [
         "openzeppelin",
@@ -13,7 +13,7 @@
       ],
       [
         "yld",
-        2800
+        3000
       ],
       [
         "circleso",
@@ -25,7 +25,7 @@
       ],
       [
         "Parloa",
-        7800
+        7600
       ],
       [
         "charles",
@@ -55,14 +55,14 @@
       ],
       [
         "Parloa",
-        8
+        7
       ],
       [
         "charles",
         0
       ]
     ],
-    "matches_written": 17
+    "matches_written": 16
   },
   "jobs": [
     {
@@ -73,15 +73,6 @@
       "location": "Remote EU ",
       "updated_at": "2026-01-14T11:53:25-05:00",
       "url": "https://job-boards.eu.greenhouse.io/yld/jobs/4736588101"
-    },
-    {
-      "board_name": "Parloa",
-      "board": "Parloa",
-      "id": 4753275101,
-      "title": "Strategic Engagement Manager - EMEA",
-      "location": "Berlin Office; London; Munich Office; Remotely in Europe ",
-      "updated_at": "2026-01-14T06:39:45-05:00",
-      "url": "https://job-boards.eu.greenhouse.io/parloa/jobs/4753275101"
     },
     {
       "board_name": "Parloa",

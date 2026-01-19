@@ -1,13 +1,12 @@
 # Greenhouse EU-remote jobs
 
-_Generated: 2026-01-19T07:41:09Z_
+_Generated: 2026-01-19T14:57:19Z_
 
-Total: **17**
+Total: **16**
 
 | Company | Title | Location | Updated | Link |
 |---|---|---|---:|---|
 | YLD | Contract Platform Engineer  | Remote EU  | 2026-01-14T11:53:25-05:00 | [open](https://job-boards.eu.greenhouse.io/yld/jobs/4736588101) |
-| Parloa | Strategic Engagement Manager - EMEA | Berlin Office; London; Munich Office; Remotely in Europe  | 2026-01-14T06:39:45-05:00 | [open](https://job-boards.eu.greenhouse.io/parloa/jobs/4753275101) |
 | Parloa | Senior Forward Deployed Engineer - EMEA (f/m/d) | Remotely in Europe  | 2026-01-14T05:07:42-05:00 | [open](https://job-boards.eu.greenhouse.io/parloa/jobs/4751504101) |
 | Parloa | Business Development Executive - Southern Europe (f/m/d)* | Remotely in Europe  | 2026-01-14T04:05:15-05:00 | [open](https://job-boards.eu.greenhouse.io/parloa/jobs/4752757101) |
 | Parloa | Enterprise Account Executive (f/m/d)* | Remotely in Europe  | 2026-01-13T08:57:54-05:00 | [open](https://job-boards.eu.greenhouse.io/parloa/jobs/4752593101) |
