@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-20T07:05:07Z",
+  "generated_at": "2026-01-20T15:01:37Z",
   "counts": {
     "boards": 7,
     "raw_per_board": [
@@ -13,7 +13,7 @@
       ],
       [
         "yld",
-        3000
+        2800
       ],
       [
         "circleso",
@@ -25,7 +25,7 @@
       ],
       [
         "Parloa",
-        7600
+        7400
       ],
       [
         "charles",
