@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-22T07:03:43Z",
+  "generated_at": "2026-01-22T15:00:39Z",
   "counts": {
     "boards": 7,
     "raw_per_board": [
@@ -21,7 +21,7 @@
       ],
       [
         "Hivemq",
-        800
+        1000
       ],
       [
         "Parloa",
@@ -29,7 +29,7 @@
       ],
       [
         "charles",
-        600
+        800
       ]
     ],
     "matched_per_board": [
