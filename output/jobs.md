@@ -1,6 +1,6 @@
 # Greenhouse EU-remote jobs
 
-_Generated: 2026-01-27T15:02:55Z_
+_Generated: 2026-01-28T07:03:40Z_
 
 Total: **17**
 
