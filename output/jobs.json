@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-28T07:03:40Z",
+  "generated_at": "2026-01-28T15:01:53Z",
   "counts": {
     "boards": 7,
     "raw_per_board": [
@@ -25,7 +25,7 @@
       ],
       [
         "Parloa",
-        8600
+        9200
       ],
       [
         "charles",
@@ -68,6 +68,15 @@
     {
       "board_name": "Parloa",
       "board": "Parloa",
+      "id": 4768706101,
+      "title": "Enterprise Account Executive - Switzerland (f/m/d)*",
+      "location": "Remotely in Europe ",
+      "updated_at": "2026-01-28T07:53:05-05:00",
+      "url": "https://job-boards.eu.greenhouse.io/parloa/jobs/4768706101"
+    },
+    {
+      "board_name": "Parloa",
+      "board": "Parloa",
       "id": 4762639101,
       "title": "Lead/Senior Solution Engineer (PreSales) Switzerland (f/m/d)*",
       "location": "Remotely in Europe ",
@@ -100,15 +109,6 @@
       "location": "Remotely in Europe ",
       "updated_at": "2026-01-14T04:05:15-05:00",
       "url": "https://job-boards.eu.greenhouse.io/parloa/jobs/4752757101"
-    },
-    {
-      "board_name": "Parloa",
-      "board": "Parloa",
-      "id": 4752593101,
-      "title": "Enterprise Account Executive (f/m/d)*",
-      "location": "Remotely in Europe ",
-      "updated_at": "2026-01-13T08:57:54-05:00",
-      "url": "https://job-boards.eu.greenhouse.io/parloa/jobs/4752593101"
     },
     {
       "board_name": "Parloa",
