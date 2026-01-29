@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-29T07:56:43Z",
+  "generated_at": "2026-01-29T15:55:44Z",
   "counts": {
     "boards": 7,
     "raw_per_board": [
       [
         "highmetric",
-        4400
+        4600
       ],
       [
         "openzeppelin",
@@ -17,15 +17,15 @@
       ],
       [
         "circleso",
-        3200
+        3600
       ],
       [
         "Hivemq",
-        1200
+        1400
       ],
       [
         "Parloa",
-        9400
+        9200
       ],
       [
         "charles",
@@ -51,7 +51,7 @@
       ],
       [
         "Hivemq",
-        3
+        4
       ],
       [
         "Parloa",
@@ -62,9 +62,18 @@
         0
       ]
     ],
-    "matches_written": 17
+    "matches_written": 18
   },
   "jobs": [
+    {
+      "board_name": "Hivemq",
+      "board": "Hivemq",
+      "id": 4769414101,
+      "title": "Senior Support Engineer",
+      "location": "Europe Remote; Germany Remote",
+      "updated_at": "2026-01-29T03:35:59-05:00",
+      "url": "https://job-boards.eu.greenhouse.io/hivemq/jobs/4769414101"
+    },
     {
       "board_name": "Parloa",
       "board": "Parloa",

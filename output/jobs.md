@@ -1,11 +1,12 @@
 # Greenhouse EU-remote jobs
 
-_Generated: 2026-01-29T07:56:43Z_
+_Generated: 2026-01-29T15:55:44Z_
 
-Total: **17**
+Total: **18**
 
 | Company | Title | Location | Updated | Link |
 |---|---|---|---:|---|
+| Hivemq | Senior Support Engineer | Europe Remote; Germany Remote | 2026-01-29T03:35:59-05:00 | [open](https://job-boards.eu.greenhouse.io/hivemq/jobs/4769414101) |
 | Parloa | Enterprise Account Executive - Switzerland (f/m/d)* | Remotely in Europe  | 2026-01-28T07:53:05-05:00 | [open](https://job-boards.eu.greenhouse.io/parloa/jobs/4768706101) |
 | Parloa | Lead/Senior Solution Engineer (PreSales) Switzerland (f/m/d)* | Remotely in Europe  | 2026-01-20T13:17:51-05:00 | [open](https://job-boards.eu.greenhouse.io/parloa/jobs/4762639101) |
 | YLD | Contract Platform Engineer  | Remote EU  | 2026-01-14T11:53:25-05:00 | [open](https://job-boards.eu.greenhouse.io/yld/jobs/4736588101) |
