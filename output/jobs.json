@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-30T07:55:39Z",
+  "generated_at": "2026-01-30T15:52:52Z",
   "counts": {
     "boards": 7,
     "raw_per_board": [
@@ -17,7 +17,7 @@
       ],
       [
         "circleso",
-        3600
+        4200
       ],
       [
         "Hivemq",
@@ -51,7 +51,7 @@
       ],
       [
         "Hivemq",
-        4
+        2
       ],
       [
         "Parloa",
@@ -62,7 +62,7 @@
         0
       ]
     ],
-    "matches_written": 18
+    "matches_written": 16
   },
   "jobs": [
     {
@@ -71,8 +71,17 @@
       "id": 4769414101,
       "title": "Senior Support Engineer",
       "location": "Europe Remote; Germany Remote",
-      "updated_at": "2026-01-29T03:35:59-05:00",
+      "updated_at": "2026-01-30T08:56:19-05:00",
       "url": "https://job-boards.eu.greenhouse.io/hivemq/jobs/4769414101"
+    },
+    {
+      "board_name": "Hivemq",
+      "board": "Hivemq",
+      "id": 4001784101,
+      "title": "Senior Software Engineer",
+      "location": "Europe Remote",
+      "updated_at": "2026-01-30T08:56:19-05:00",
+      "url": "https://job-boards.eu.greenhouse.io/hivemq/jobs/4001784101"
     },
     {
       "board_name": "Parloa",
@@ -165,15 +174,6 @@
       "url": "https://job-boards.eu.greenhouse.io/yld/jobs/4611906101"
     },
     {
-      "board_name": "Hivemq",
-      "board": "Hivemq",
-      "id": 4001784101,
-      "title": "Senior Software Engineer",
-      "location": "Europe Remote",
-      "updated_at": "2025-12-30T04:39:39-05:00",
-      "url": "https://job-boards.eu.greenhouse.io/hivemq/jobs/4001784101"
-    },
-    {
       "board_name": "YLD",
       "board": "yld",
       "id": 4696835101,
@@ -208,24 +208,6 @@
       "location": "Remote EU",
       "updated_at": "2025-12-10T10:10:01-05:00",
       "url": "https://job-boards.eu.greenhouse.io/yld/jobs/4722581101"
-    },
-    {
-      "board_name": "Hivemq",
-      "board": "Hivemq",
-      "id": 4702333101,
-      "title": "Senior Fullstack Engineer (Node.js)",
-      "location": "Europe Remote",
-      "updated_at": "2025-11-13T03:24:05-05:00",
-      "url": "https://job-boards.eu.greenhouse.io/hivemq/jobs/4702333101"
-    },
-    {
-      "board_name": "Hivemq",
-      "board": "Hivemq",
-      "id": 4701746101,
-      "title": "Senior Fullstack Engineer",
-      "location": "Europe Remote",
-      "updated_at": "2025-11-13T03:23:42-05:00",
-      "url": "https://job-boards.eu.greenhouse.io/hivemq/jobs/4701746101"
     }
   ]
 }
