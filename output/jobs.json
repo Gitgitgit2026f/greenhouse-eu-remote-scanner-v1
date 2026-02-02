@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-01T14:55:41Z",
+  "generated_at": "2026-02-02T08:01:21Z",
   "counts": {
     "boards": 7,
     "raw_per_board": [
@@ -25,7 +25,7 @@
       ],
       [
         "Parloa",
-        9400
+        9600
       ],
       [
         "charles",
@@ -66,6 +66,78 @@
   },
   "jobs": [
     {
+      "board_name": "Parloa",
+      "board": "Parloa",
+      "id": 4749704101,
+      "title": "Senior/Lead Solution Engineer (PreSales) Spain (w/m/d)*",
+      "location": "Remotely in Europe ",
+      "updated_at": "2026-02-01T12:38:07-05:00",
+      "url": "https://job-boards.eu.greenhouse.io/parloa/jobs/4749704101"
+    },
+    {
+      "board_name": "Parloa",
+      "board": "Parloa",
+      "id": 4751249101,
+      "title": "Senior/Lead Solution Engineer (PreSales) Italy (w/m/d)*",
+      "location": "Remotely in Europe ",
+      "updated_at": "2026-02-01T12:38:07-05:00",
+      "url": "https://job-boards.eu.greenhouse.io/parloa/jobs/4751249101"
+    },
+    {
+      "board_name": "Parloa",
+      "board": "Parloa",
+      "id": 4751245101,
+      "title": "Senior/Lead Solution Engineer (PreSales) France (w/m/d)*",
+      "location": "Remotely in Europe ",
+      "updated_at": "2026-02-01T12:38:07-05:00",
+      "url": "https://job-boards.eu.greenhouse.io/parloa/jobs/4751245101"
+    },
+    {
+      "board_name": "Parloa",
+      "board": "Parloa",
+      "id": 4751504101,
+      "title": "Senior Forward Deployed Engineer - EMEA (f/m/d)",
+      "location": "Remotely in Europe ",
+      "updated_at": "2026-02-01T12:38:07-05:00",
+      "url": "https://job-boards.eu.greenhouse.io/parloa/jobs/4751504101"
+    },
+    {
+      "board_name": "Parloa",
+      "board": "Parloa",
+      "id": 4751058101,
+      "title": "Principal Software Engineer (f/m/d)*",
+      "location": "Berlin Office; Remotely in Europe ; Remotely in Germany",
+      "updated_at": "2026-02-01T12:38:07-05:00",
+      "url": "https://job-boards.eu.greenhouse.io/parloa/jobs/4751058101"
+    },
+    {
+      "board_name": "Parloa",
+      "board": "Parloa",
+      "id": 4762639101,
+      "title": "Lead/Senior Solution Engineer (PreSales) Switzerland (f/m/d)*",
+      "location": "Remotely in Europe ",
+      "updated_at": "2026-02-01T12:38:07-05:00",
+      "url": "https://job-boards.eu.greenhouse.io/parloa/jobs/4762639101"
+    },
+    {
+      "board_name": "Parloa",
+      "board": "Parloa",
+      "id": 4768706101,
+      "title": "Enterprise Account Executive - Switzerland (f/m/d)*",
+      "location": "Remotely in Europe ",
+      "updated_at": "2026-02-01T12:38:07-05:00",
+      "url": "https://job-boards.eu.greenhouse.io/parloa/jobs/4768706101"
+    },
+    {
+      "board_name": "Parloa",
+      "board": "Parloa",
+      "id": 4752757101,
+      "title": "Business Development Executive - Southern Europe (f/m/d)*",
+      "location": "Remotely in Europe ",
+      "updated_at": "2026-02-01T12:38:07-05:00",
+      "url": "https://job-boards.eu.greenhouse.io/parloa/jobs/4752757101"
+    },
+    {
       "board_name": "Hivemq",
       "board": "Hivemq",
       "id": 4769414101,
@@ -84,24 +156,6 @@
       "url": "https://job-boards.eu.greenhouse.io/hivemq/jobs/4001784101"
     },
     {
-      "board_name": "Parloa",
-      "board": "Parloa",
-      "id": 4768706101,
-      "title": "Enterprise Account Executive - Switzerland (f/m/d)*",
-      "location": "Remotely in Europe ",
-      "updated_at": "2026-01-28T07:53:05-05:00",
-      "url": "https://job-boards.eu.greenhouse.io/parloa/jobs/4768706101"
-    },
-    {
-      "board_name": "Parloa",
-      "board": "Parloa",
-      "id": 4762639101,
-      "title": "Lead/Senior Solution Engineer (PreSales) Switzerland (f/m/d)*",
-      "location": "Remotely in Europe ",
-      "updated_at": "2026-01-20T13:17:51-05:00",
-      "url": "https://job-boards.eu.greenhouse.io/parloa/jobs/4762639101"
-    },
-    {
       "board_name": "YLD",
       "board": "yld",
       "id": 4736588101,
@@ -109,60 +163,6 @@
       "location": "Remote EU ",
       "updated_at": "2026-01-14T11:53:25-05:00",
       "url": "https://job-boards.eu.greenhouse.io/yld/jobs/4736588101"
-    },
-    {
-      "board_name": "Parloa",
-      "board": "Parloa",
-      "id": 4751504101,
-      "title": "Senior Forward Deployed Engineer - EMEA (f/m/d)",
-      "location": "Remotely in Europe ",
-      "updated_at": "2026-01-14T05:07:42-05:00",
-      "url": "https://job-boards.eu.greenhouse.io/parloa/jobs/4751504101"
-    },
-    {
-      "board_name": "Parloa",
-      "board": "Parloa",
-      "id": 4752757101,
-      "title": "Business Development Executive - Southern Europe (f/m/d)*",
-      "location": "Remotely in Europe ",
-      "updated_at": "2026-01-14T04:05:15-05:00",
-      "url": "https://job-boards.eu.greenhouse.io/parloa/jobs/4752757101"
-    },
-    {
-      "board_name": "Parloa",
-      "board": "Parloa",
-      "id": 4749704101,
-      "title": "Senior/Lead Solution Engineer (PreSales) Spain (w/m/d)*",
-      "location": "Remotely in Europe ",
-      "updated_at": "2026-01-12T10:35:53-05:00",
-      "url": "https://job-boards.eu.greenhouse.io/parloa/jobs/4749704101"
-    },
-    {
-      "board_name": "Parloa",
-      "board": "Parloa",
-      "id": 4751249101,
-      "title": "Senior/Lead Solution Engineer (PreSales) Italy (w/m/d)*",
-      "location": "Remotely in Europe ",
-      "updated_at": "2026-01-12T10:35:45-05:00",
-      "url": "https://job-boards.eu.greenhouse.io/parloa/jobs/4751249101"
-    },
-    {
-      "board_name": "Parloa",
-      "board": "Parloa",
-      "id": 4751245101,
-      "title": "Senior/Lead Solution Engineer (PreSales) France (w/m/d)*",
-      "location": "Remotely in Europe ",
-      "updated_at": "2026-01-12T10:35:33-05:00",
-      "url": "https://job-boards.eu.greenhouse.io/parloa/jobs/4751245101"
-    },
-    {
-      "board_name": "Parloa",
-      "board": "Parloa",
-      "id": 4751058101,
-      "title": "Principal Software Engineer (f/m/d)*",
-      "location": "Berlin Office; Remotely in Europe ; Remotely in Germany",
-      "updated_at": "2026-01-12T05:59:20-05:00",
-      "url": "https://job-boards.eu.greenhouse.io/parloa/jobs/4751058101"
     },
     {
       "board_name": "YLD",
