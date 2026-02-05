@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-05T08:01:02Z",
+  "generated_at": "2026-02-05T16:02:17Z",
   "counts": {
     "boards": 7,
     "raw_per_board": [
@@ -9,15 +9,15 @@
       ],
       [
         "openzeppelin",
-        1000
+        1200
       ],
       [
         "yld",
-        3800
+        4000
       ],
       [
         "circleso",
-        5000
+        4800
       ],
       [
         "Hivemq",
@@ -43,7 +43,7 @@
       ],
       [
         "yld",
-        6
+        7
       ],
       [
         "circleso",
@@ -62,9 +62,18 @@
         0
       ]
     ],
-    "matches_written": 16
+    "matches_written": 17
   },
   "jobs": [
+    {
+      "board_name": "YLD",
+      "board": "yld",
+      "id": 4775287101,
+      "title": "Digital Product Designer (B2B Contract)",
+      "location": "Remote (EU)",
+      "updated_at": "2026-02-05T10:21:25-05:00",
+      "url": "https://job-boards.eu.greenhouse.io/yld/jobs/4775287101"
+    },
     {
       "board_name": "YLD",
       "board": "yld",
