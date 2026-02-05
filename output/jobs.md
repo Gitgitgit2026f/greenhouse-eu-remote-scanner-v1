@@ -1,16 +1,16 @@
 # Greenhouse EU-remote jobs
 
-_Generated: 2026-02-04T16:11:00Z_
+_Generated: 2026-02-05T08:01:02Z_
 
 Total: **16**
 
 | Company | Title | Location | Updated | Link |
 |---|---|---|---:|---|
-| YLD | Contract Platform Engineer  | Remote EU  | 2026-02-03T09:55:35-05:00 | [open](https://job-boards.eu.greenhouse.io/yld/jobs/4736588101) |
-| YLD | Contract Senior Golang Engineer - UK/Europe based | Remote EU | 2026-02-03T09:53:35-05:00 | [open](https://job-boards.eu.greenhouse.io/yld/jobs/4722581101) |
-| YLD | Contract Senior Software Engineer (Python/AWS)  | Remote (EU) | 2026-02-03T09:49:25-05:00 | [open](https://job-boards.eu.greenhouse.io/yld/jobs/4611906101) |
-| YLD | Contract Multi-Cloud/Go Platform Engineer - UK based | Remote EU | 2026-02-03T09:48:28-05:00 | [open](https://job-boards.eu.greenhouse.io/yld/jobs/4696835101) |
-| YLD | Contract Senior Software Engineer (React/Node) | Remote EU | 2026-02-03T09:47:56-05:00 | [open](https://job-boards.eu.greenhouse.io/yld/jobs/4302334101) |
+| YLD | Contract Platform Engineer  | Remote EU  | 2026-02-04T14:11:35-05:00 | [open](https://job-boards.eu.greenhouse.io/yld/jobs/4736588101) |
+| YLD | Contract Senior Golang Engineer - UK/Europe based | Remote EU | 2026-02-04T14:09:36-05:00 | [open](https://job-boards.eu.greenhouse.io/yld/jobs/4722581101) |
+| YLD | Contract Senior Software Engineer (Python/AWS)  | Remote (EU) | 2026-02-04T14:08:37-05:00 | [open](https://job-boards.eu.greenhouse.io/yld/jobs/4611906101) |
+| YLD | Contract Multi-Cloud/Go Platform Engineer - UK based | Remote EU | 2026-02-04T14:07:42-05:00 | [open](https://job-boards.eu.greenhouse.io/yld/jobs/4696835101) |
+| YLD | Contract Senior Software Engineer (React/Node) | Remote EU | 2026-02-04T14:07:13-05:00 | [open](https://job-boards.eu.greenhouse.io/yld/jobs/4302334101) |
 | Parloa | Senior/Lead Solution Engineer (PreSales) Spain (w/m/d)* | Remotely in Europe  | 2026-02-01T12:38:07-05:00 | [open](https://job-boards.eu.greenhouse.io/parloa/jobs/4749704101) |
 | Parloa | Senior/Lead Solution Engineer (PreSales) Italy (w/m/d)* | Remotely in Europe  | 2026-02-01T12:38:07-05:00 | [open](https://job-boards.eu.greenhouse.io/parloa/jobs/4751249101) |
 | Parloa | Senior/Lead Solution Engineer (PreSales) France (w/m/d)* | Remotely in Europe  | 2026-02-01T12:38:07-05:00 | [open](https://job-boards.eu.greenhouse.io/parloa/jobs/4751245101) |
