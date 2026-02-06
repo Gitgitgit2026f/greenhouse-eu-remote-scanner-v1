@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-02-05T16:02:17Z",
+  "generated_at": "2026-02-06T08:00:38Z",
   "counts": {
     "boards": 7,
     "raw_per_board": [
       [
         "highmetric",
-        4800
+        5000
       ],
       [
         "openzeppelin",
-        1200
+        1000
       ],
       [
         "yld",
-        4000
+        4200
       ],
       [
         "circleso",
@@ -21,11 +21,11 @@
       ],
       [
         "Hivemq",
-        1400
+        1600
       ],
       [
         "Parloa",
-        9600
+        9800
       ],
       [
         "charles",
@@ -43,7 +43,7 @@
       ],
       [
         "yld",
-        7
+        8
       ],
       [
         "circleso",
@@ -62,17 +62,17 @@
         0
       ]
     ],
-    "matches_written": 17
+    "matches_written": 18
   },
   "jobs": [
     {
       "board_name": "YLD",
       "board": "yld",
-      "id": 4775287101,
-      "title": "Digital Product Designer (B2B Contract)",
-      "location": "Remote (EU)",
-      "updated_at": "2026-02-05T10:21:25-05:00",
-      "url": "https://job-boards.eu.greenhouse.io/yld/jobs/4775287101"
+      "id": 4774641101,
+      "title": "Platform Engineer",
+      "location": "Remote EU",
+      "updated_at": "2026-02-05T14:33:02-05:00",
+      "url": "https://job-boards.eu.greenhouse.io/yld/jobs/4774641101"
     },
     {
       "board_name": "YLD",
@@ -80,7 +80,7 @@
       "id": 4736588101,
       "title": "Contract Platform Engineer ",
       "location": "Remote EU ",
-      "updated_at": "2026-02-04T14:11:35-05:00",
+      "updated_at": "2026-02-05T14:32:26-05:00",
       "url": "https://job-boards.eu.greenhouse.io/yld/jobs/4736588101"
     },
     {
@@ -89,7 +89,7 @@
       "id": 4722581101,
       "title": "Contract Senior Golang Engineer - UK/Europe based",
       "location": "Remote EU",
-      "updated_at": "2026-02-04T14:09:36-05:00",
+      "updated_at": "2026-02-05T14:29:13-05:00",
       "url": "https://job-boards.eu.greenhouse.io/yld/jobs/4722581101"
     },
     {
@@ -98,8 +98,17 @@
       "id": 4611906101,
       "title": "Contract Senior Software Engineer (Python/AWS) ",
       "location": "Remote (EU)",
-      "updated_at": "2026-02-04T14:08:37-05:00",
+      "updated_at": "2026-02-05T14:27:36-05:00",
       "url": "https://job-boards.eu.greenhouse.io/yld/jobs/4611906101"
+    },
+    {
+      "board_name": "YLD",
+      "board": "yld",
+      "id": 4775287101,
+      "title": "Digital Product Designer (B2B Contract)",
+      "location": "Remote (EU)",
+      "updated_at": "2026-02-05T14:26:55-05:00",
+      "url": "https://job-boards.eu.greenhouse.io/yld/jobs/4775287101"
     },
     {
       "board_name": "YLD",
@@ -107,7 +116,7 @@
       "id": 4696835101,
       "title": "Contract Multi-Cloud/Go Platform Engineer - UK based",
       "location": "Remote EU",
-      "updated_at": "2026-02-04T14:07:42-05:00",
+      "updated_at": "2026-02-05T14:25:22-05:00",
       "url": "https://job-boards.eu.greenhouse.io/yld/jobs/4696835101"
     },
     {
@@ -116,7 +125,7 @@
       "id": 4302334101,
       "title": "Contract Senior Software Engineer (React/Node)",
       "location": "Remote EU",
-      "updated_at": "2026-02-04T14:07:13-05:00",
+      "updated_at": "2026-02-05T14:24:39-05:00",
       "url": "https://job-boards.eu.greenhouse.io/yld/jobs/4302334101"
     },
     {
