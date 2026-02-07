@@ -1,11 +1,12 @@
 # Greenhouse EU-remote jobs
 
-_Generated: 2026-02-06T16:00:10Z_
+_Generated: 2026-02-07T07:45:57Z_
 
-Total: **17**
+Total: **18**
 
 | Company | Title | Location | Updated | Link |
 |---|---|---|---:|---|
+| Hivemq | Junior Platform Engineer (12 month contract) | Europe Remote | 2026-02-06T12:21:28-05:00 | [open](https://job-boards.eu.greenhouse.io/hivemq/jobs/4716064101) |
 | YLD | Platform Engineer | Remote EU | 2026-02-06T06:51:48-05:00 | [open](https://job-boards.eu.greenhouse.io/yld/jobs/4774641101) |
 | YLD | Contract Platform Engineer  | Remote EU  | 2026-02-05T14:32:26-05:00 | [open](https://job-boards.eu.greenhouse.io/yld/jobs/4736588101) |
 | YLD | Contract Senior Golang Engineer - UK/Europe based | Remote EU | 2026-02-05T14:29:13-05:00 | [open](https://job-boards.eu.greenhouse.io/yld/jobs/4722581101) |

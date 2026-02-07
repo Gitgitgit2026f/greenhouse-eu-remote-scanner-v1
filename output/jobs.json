@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-06T16:00:10Z",
+  "generated_at": "2026-02-07T07:45:57Z",
   "counts": {
     "boards": 7,
     "raw_per_board": [
       [
         "highmetric",
-        5000
+        5200
       ],
       [
         "openzeppelin",
@@ -17,11 +17,11 @@
       ],
       [
         "circleso",
-        4800
+        5400
       ],
       [
         "Hivemq",
-        1200
+        1400
       ],
       [
         "Parloa",
@@ -51,7 +51,7 @@
       ],
       [
         "Hivemq",
-        1
+        2
       ],
       [
         "Parloa",
@@ -62,9 +62,18 @@
         0
       ]
     ],
-    "matches_written": 17
+    "matches_written": 18
   },
   "jobs": [
+    {
+      "board_name": "Hivemq",
+      "board": "Hivemq",
+      "id": 4716064101,
+      "title": "Junior Platform Engineer (12 month contract)",
+      "location": "Europe Remote",
+      "updated_at": "2026-02-06T12:21:28-05:00",
+      "url": "https://job-boards.eu.greenhouse.io/hivemq/jobs/4716064101"
+    },
     {
       "board_name": "YLD",
       "board": "yld",
