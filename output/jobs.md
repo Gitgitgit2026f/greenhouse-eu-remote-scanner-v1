@@ -1,11 +1,12 @@
 # Greenhouse EU-remote jobs
 
-_Generated: 2026-02-17T07:04:54Z_
+_Generated: 2026-02-17T14:41:07Z_
 
-Total: **17**
+Total: **18**
 
 | Company | Title | Location | Updated | Link |
 |---|---|---|---:|---|
+| Parloa | Enterprise Account Executive (f/m/d)* | Remotely in Europe  | 2026-02-17T04:52:56-05:00 | [open](https://job-boards.eu.greenhouse.io/parloa/jobs/4752593101) |
 | YLD | Contract Platform Engineer  | Remote EU  | 2026-02-16T07:30:11-05:00 | [open](https://job-boards.eu.greenhouse.io/yld/jobs/4736588101) |
 | YLD | Contract Digital Product Designer (EU/UK-based) | Remote (EU) | 2026-02-13T12:01:56-05:00 | [open](https://job-boards.eu.greenhouse.io/yld/jobs/4781136101) |
 | YLD | Digital Product Designer (B2B Contract) | Remote (EU) | 2026-02-11T07:09:11-05:00 | [open](https://job-boards.eu.greenhouse.io/yld/jobs/4775287101) |
