@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-17T14:41:07Z",
+  "generated_at": "2026-02-18T07:07:02Z",
   "counts": {
     "boards": 7,
     "raw_per_board": [
       [
         "highmetric",
-        5600
+        6200
       ],
       [
         "openzeppelin",
@@ -25,7 +25,7 @@
       ],
       [
         "Parloa",
-        10800
+        11200
       ],
       [
         "charles",
@@ -55,14 +55,14 @@
       ],
       [
         "Parloa",
-        9
+        8
       ],
       [
         "charles",
         0
       ]
     ],
-    "matches_written": 18
+    "matches_written": 17
   },
   "jobs": [
     {
@@ -208,15 +208,6 @@
       "location": "Remotely in Europe ",
       "updated_at": "2026-02-01T12:38:07-05:00",
       "url": "https://job-boards.eu.greenhouse.io/parloa/jobs/4768706101"
-    },
-    {
-      "board_name": "Parloa",
-      "board": "Parloa",
-      "id": 4752757101,
-      "title": "Business Development Executive - Southern Europe (f/m/d)*",
-      "location": "Remotely in Europe ",
-      "updated_at": "2026-02-01T12:38:07-05:00",
-      "url": "https://job-boards.eu.greenhouse.io/parloa/jobs/4752757101"
     },
     {
       "board_name": "YLD",

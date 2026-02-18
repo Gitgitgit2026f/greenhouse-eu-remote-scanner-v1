@@ -1,8 +1,8 @@
 # Greenhouse EU-remote jobs
 
-_Generated: 2026-02-17T14:41:07Z_
+_Generated: 2026-02-18T07:07:02Z_
 
-Total: **18**
+Total: **17**
 
 | Company | Title | Location | Updated | Link |
 |---|---|---|---:|---|
@@ -22,5 +22,4 @@ Total: **18**
 | Parloa | Principal Software Engineer (f/m/d)* | Berlin Office; Remotely in Europe ; Remotely in Germany | 2026-02-01T12:38:07-05:00 | [open](https://job-boards.eu.greenhouse.io/parloa/jobs/4751058101) |
 | Parloa | Lead/Senior Solution Engineer (PreSales) Switzerland (f/m/d)* | Remotely in Europe  | 2026-02-01T12:38:07-05:00 | [open](https://job-boards.eu.greenhouse.io/parloa/jobs/4762639101) |
 | Parloa | Enterprise Account Executive - Switzerland (f/m/d)* | Remotely in Europe  | 2026-02-01T12:38:07-05:00 | [open](https://job-boards.eu.greenhouse.io/parloa/jobs/4768706101) |
-| Parloa | Business Development Executive - Southern Europe (f/m/d)* | Remotely in Europe  | 2026-02-01T12:38:07-05:00 | [open](https://job-boards.eu.greenhouse.io/parloa/jobs/4752757101) |
 | YLD | Contract Systems Engineer (Rust) | Remote EU | 2025-12-12T10:02:48-05:00 | [open](https://job-boards.eu.greenhouse.io/yld/jobs/4728134101) |
