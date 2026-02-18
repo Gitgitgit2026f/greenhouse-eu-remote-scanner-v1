@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-18T07:07:02Z",
+  "generated_at": "2026-02-18T14:40:14Z",
   "counts": {
     "boards": 7,
     "raw_per_board": [
       [
         "highmetric",
-        6200
+        6600
       ],
       [
         "openzeppelin",
@@ -13,7 +13,7 @@
       ],
       [
         "yld",
-        4400
+        4200
       ],
       [
         "circleso",
@@ -25,7 +25,7 @@
       ],
       [
         "Parloa",
-        11200
+        11000
       ],
       [
         "charles",
@@ -43,7 +43,7 @@
       ],
       [
         "yld",
-        9
+        8
       ],
       [
         "circleso",
@@ -62,7 +62,7 @@
         0
       ]
     ],
-    "matches_written": 17
+    "matches_written": 16
   },
   "jobs": [
     {
@@ -127,15 +127,6 @@
       "location": "Remote (EU)",
       "updated_at": "2026-02-05T14:27:36-05:00",
       "url": "https://job-boards.eu.greenhouse.io/yld/jobs/4611906101"
-    },
-    {
-      "board_name": "YLD",
-      "board": "yld",
-      "id": 4696835101,
-      "title": "Contract Multi-Cloud/Go Platform Engineer - UK based",
-      "location": "Remote EU",
-      "updated_at": "2026-02-05T14:25:22-05:00",
-      "url": "https://job-boards.eu.greenhouse.io/yld/jobs/4696835101"
     },
     {
       "board_name": "YLD",
