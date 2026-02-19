@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-19T07:06:25Z",
+  "generated_at": "2026-02-19T14:42:57Z",
   "counts": {
     "boards": 7,
     "raw_per_board": [
       [
         "highmetric",
-        6400
+        6200
       ],
       [
         "openzeppelin",
@@ -13,7 +13,7 @@
       ],
       [
         "yld",
-        4400
+        4600
       ],
       [
         "circleso",
@@ -43,7 +43,7 @@
       ],
       [
         "yld",
-        8
+        9
       ],
       [
         "circleso",
@@ -62,9 +62,18 @@
         0
       ]
     ],
-    "matches_written": 16
+    "matches_written": 17
   },
   "jobs": [
+    {
+      "board_name": "YLD",
+      "board": "yld",
+      "id": 4780642101,
+      "title": "Contract Product Manager",
+      "location": "Remote EU",
+      "updated_at": "2026-02-19T09:27:20-05:00",
+      "url": "https://job-boards.eu.greenhouse.io/yld/jobs/4780642101"
+    },
     {
       "board_name": "Parloa",
       "board": "Parloa",
