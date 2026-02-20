@@ -1,15 +1,15 @@
 # Greenhouse EU-remote jobs
 
-_Generated: 2026-02-19T14:42:57Z_
+_Generated: 2026-02-20T07:02:52Z_
 
 Total: **17**
 
 | Company | Title | Location | Updated | Link |
 |---|---|---|---:|---|
+| YLD | Contract Digital Product Designer (EU/UK-based) | Remote (EU) | 2026-02-19T12:07:11-05:00 | [open](https://job-boards.eu.greenhouse.io/yld/jobs/4781136101) |
 | YLD | Contract Product Manager | Remote EU | 2026-02-19T09:27:20-05:00 | [open](https://job-boards.eu.greenhouse.io/yld/jobs/4780642101) |
 | Parloa | Enterprise Account Executive (f/m/d)* | Remotely in Europe  | 2026-02-17T04:52:56-05:00 | [open](https://job-boards.eu.greenhouse.io/parloa/jobs/4752593101) |
 | YLD | Contract Platform Engineer  | Remote EU  | 2026-02-16T07:30:11-05:00 | [open](https://job-boards.eu.greenhouse.io/yld/jobs/4736588101) |
-| YLD | Contract Digital Product Designer (EU/UK-based) | Remote (EU) | 2026-02-13T12:01:56-05:00 | [open](https://job-boards.eu.greenhouse.io/yld/jobs/4781136101) |
 | YLD | Digital Product Designer (B2B Contract) | Remote (EU) | 2026-02-11T07:09:11-05:00 | [open](https://job-boards.eu.greenhouse.io/yld/jobs/4775287101) |
 | YLD | Platform Engineer | Remote EU | 2026-02-06T06:51:48-05:00 | [open](https://job-boards.eu.greenhouse.io/yld/jobs/4774641101) |
 | YLD | Contract Senior Golang Engineer - UK/Europe based | Remote EU | 2026-02-05T14:29:13-05:00 | [open](https://job-boards.eu.greenhouse.io/yld/jobs/4722581101) |
