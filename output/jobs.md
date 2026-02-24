@@ -1,8 +1,8 @@
 # Greenhouse EU-remote jobs
 
-_Generated: 2026-02-24T07:05:55Z_
+_Generated: 2026-02-24T14:45:53Z_
 
-Total: **17**
+Total: **14**
 
 | Company | Title | Location | Updated | Link |
 |---|---|---|---:|---|
@@ -15,9 +15,6 @@ Total: **17**
 | YLD | Contract Senior Golang Engineer - UK/Europe based | Remote EU | 2026-02-05T14:29:13-05:00 | [open](https://job-boards.eu.greenhouse.io/yld/jobs/4722581101) |
 | YLD | Contract Senior Software Engineer (Python/AWS)  | Remote (EU) | 2026-02-05T14:27:36-05:00 | [open](https://job-boards.eu.greenhouse.io/yld/jobs/4611906101) |
 | YLD | Contract Senior Software Engineer (React/Node) | Remote EU | 2026-02-05T14:24:39-05:00 | [open](https://job-boards.eu.greenhouse.io/yld/jobs/4302334101) |
-| Parloa | Senior/Lead Solution Engineer (PreSales) Spain (w/m/d)* | Remotely in Europe  | 2026-02-01T12:38:07-05:00 | [open](https://job-boards.eu.greenhouse.io/parloa/jobs/4749704101) |
-| Parloa | Senior/Lead Solution Engineer (PreSales) Italy (w/m/d)* | Remotely in Europe  | 2026-02-01T12:38:07-05:00 | [open](https://job-boards.eu.greenhouse.io/parloa/jobs/4751249101) |
-| Parloa | Senior/Lead Solution Engineer (PreSales) France (w/m/d)* | Remotely in Europe  | 2026-02-01T12:38:07-05:00 | [open](https://job-boards.eu.greenhouse.io/parloa/jobs/4751245101) |
 | Parloa | Senior Forward Deployed Engineer - EMEA (f/m/d) | Remotely in Europe  | 2026-02-01T12:38:07-05:00 | [open](https://job-boards.eu.greenhouse.io/parloa/jobs/4751504101) |
 | Parloa | Principal Software Engineer (f/m/d)* | Berlin Office; Remotely in Europe ; Remotely in Germany | 2026-02-01T12:38:07-05:00 | [open](https://job-boards.eu.greenhouse.io/parloa/jobs/4751058101) |
 | Parloa | Lead/Senior Solution Engineer (PreSales) Switzerland (f/m/d)* | Remotely in Europe  | 2026-02-01T12:38:07-05:00 | [open](https://job-boards.eu.greenhouse.io/parloa/jobs/4762639101) |

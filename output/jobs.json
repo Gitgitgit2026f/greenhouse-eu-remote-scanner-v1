@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-24T07:05:55Z",
+  "generated_at": "2026-02-24T14:45:53Z",
   "counts": {
     "boards": 7,
     "raw_per_board": [
@@ -17,7 +17,7 @@
       ],
       [
         "circleso",
-        5000
+        5200
       ],
       [
         "Hivemq",
@@ -25,7 +25,7 @@
       ],
       [
         "Parloa",
-        11400
+        11600
       ],
       [
         "charles",
@@ -55,14 +55,14 @@
       ],
       [
         "Parloa",
-        8
+        5
       ],
       [
         "charles",
         0
       ]
     ],
-    "matches_written": 17
+    "matches_written": 14
   },
   "jobs": [
     {
@@ -145,33 +145,6 @@
       "location": "Remote EU",
       "updated_at": "2026-02-05T14:24:39-05:00",
       "url": "https://job-boards.eu.greenhouse.io/yld/jobs/4302334101"
-    },
-    {
-      "board_name": "Parloa",
-      "board": "Parloa",
-      "id": 4749704101,
-      "title": "Senior/Lead Solution Engineer (PreSales) Spain (w/m/d)*",
-      "location": "Remotely in Europe ",
-      "updated_at": "2026-02-01T12:38:07-05:00",
-      "url": "https://job-boards.eu.greenhouse.io/parloa/jobs/4749704101"
-    },
-    {
-      "board_name": "Parloa",
-      "board": "Parloa",
-      "id": 4751249101,
-      "title": "Senior/Lead Solution Engineer (PreSales) Italy (w/m/d)*",
-      "location": "Remotely in Europe ",
-      "updated_at": "2026-02-01T12:38:07-05:00",
-      "url": "https://job-boards.eu.greenhouse.io/parloa/jobs/4751249101"
-    },
-    {
-      "board_name": "Parloa",
-      "board": "Parloa",
-      "id": 4751245101,
-      "title": "Senior/Lead Solution Engineer (PreSales) France (w/m/d)*",
-      "location": "Remotely in Europe ",
-      "updated_at": "2026-02-01T12:38:07-05:00",
-      "url": "https://job-boards.eu.greenhouse.io/parloa/jobs/4751245101"
     },
     {
       "board_name": "Parloa",
