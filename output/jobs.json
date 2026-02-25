@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-25T07:07:53Z",
+  "generated_at": "2026-02-25T14:44:21Z",
   "counts": {
     "boards": 7,
     "raw_per_board": [
@@ -13,7 +13,7 @@
       ],
       [
         "yld",
-        4200
+        4000
       ],
       [
         "circleso",
@@ -25,7 +25,7 @@
       ],
       [
         "Parloa",
-        11400
+        11200
       ],
       [
         "charles",
@@ -43,7 +43,7 @@
       ],
       [
         "yld",
-        9
+        8
       ],
       [
         "circleso",
@@ -62,7 +62,7 @@
         0
       ]
     ],
-    "matches_written": 13
+    "matches_written": 12
   },
   "jobs": [
     {
@@ -172,15 +172,6 @@
       "location": "Remotely in Europe ",
       "updated_at": "2026-02-01T12:38:07-05:00",
       "url": "https://job-boards.eu.greenhouse.io/parloa/jobs/4768706101"
-    },
-    {
-      "board_name": "YLD",
-      "board": "yld",
-      "id": 4728134101,
-      "title": "Contract Systems Engineer (Rust)",
-      "location": "Remote EU",
-      "updated_at": "2025-12-12T10:02:48-05:00",
-      "url": "https://job-boards.eu.greenhouse.io/yld/jobs/4728134101"
     }
   ]
 }
