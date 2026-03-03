@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-02T14:39:42Z",
+  "generated_at": "2026-03-03T06:59:07Z",
   "counts": {
     "boards": 7,
     "raw_per_board": [
@@ -13,7 +13,7 @@
       ],
       [
         "yld",
-        3600
+        3400
       ],
       [
         "circleso",
@@ -25,7 +25,7 @@
       ],
       [
         "Parloa",
-        10000
+        9800
       ],
       [
         "charles",
@@ -43,7 +43,7 @@
       ],
       [
         "yld",
-        7
+        6
       ],
       [
         "circleso",
@@ -62,7 +62,7 @@
         0
       ]
     ],
-    "matches_written": 9
+    "matches_written": 8
   },
   "jobs": [
     {
@@ -82,15 +82,6 @@
       "location": "Remote EU",
       "updated_at": "2026-02-19T09:27:20-05:00",
       "url": "https://job-boards.eu.greenhouse.io/yld/jobs/4780642101"
-    },
-    {
-      "board_name": "YLD",
-      "board": "yld",
-      "id": 4736588101,
-      "title": "Contract Platform Engineer ",
-      "location": "Remote EU ",
-      "updated_at": "2026-02-16T07:30:11-05:00",
-      "url": "https://job-boards.eu.greenhouse.io/yld/jobs/4736588101"
     },
     {
       "board_name": "YLD",
