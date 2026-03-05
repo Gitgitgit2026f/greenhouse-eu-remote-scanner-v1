@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-04T14:35:10Z",
+  "generated_at": "2026-03-05T06:59:05Z",
   "counts": {
     "boards": 7,
     "raw_per_board": [
@@ -13,7 +13,7 @@
       ],
       [
         "yld",
-        3400
+        3200
       ],
       [
         "circleso",
@@ -43,7 +43,7 @@
       ],
       [
         "yld",
-        6
+        5
       ],
       [
         "circleso",
@@ -62,18 +62,9 @@
         0
       ]
     ],
-    "matches_written": 8
+    "matches_written": 7
   },
   "jobs": [
-    {
-      "board_name": "YLD",
-      "board": "yld",
-      "id": 4781136101,
-      "title": "Contract Digital Product Designer (EU/UK-based)",
-      "location": "Remote (EU)",
-      "updated_at": "2026-02-19T12:07:11-05:00",
-      "url": "https://job-boards.eu.greenhouse.io/yld/jobs/4781136101"
-    },
     {
       "board_name": "YLD",
       "board": "yld",
