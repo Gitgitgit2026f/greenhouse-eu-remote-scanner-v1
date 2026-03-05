@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-05T06:59:05Z",
+  "generated_at": "2026-03-05T14:41:17Z",
   "counts": {
     "boards": 7,
     "raw_per_board": [
       [
         "highmetric",
-        5200
+        5400
       ],
       [
         "openzeppelin",
@@ -43,7 +43,7 @@
       ],
       [
         "yld",
-        5
+        4
       ],
       [
         "circleso",
@@ -62,7 +62,7 @@
         0
       ]
     ],
-    "matches_written": 7
+    "matches_written": 6
   },
   "jobs": [
     {
@@ -100,15 +100,6 @@
       "location": "Remote (EU)",
       "updated_at": "2026-02-05T14:27:36-05:00",
       "url": "https://job-boards.eu.greenhouse.io/yld/jobs/4611906101"
-    },
-    {
-      "board_name": "YLD",
-      "board": "yld",
-      "id": 4302334101,
-      "title": "Contract Senior Software Engineer (React/Node)",
-      "location": "Remote EU",
-      "updated_at": "2026-02-05T14:24:39-05:00",
-      "url": "https://job-boards.eu.greenhouse.io/yld/jobs/4302334101"
     },
     {
       "board_name": "Parloa",
