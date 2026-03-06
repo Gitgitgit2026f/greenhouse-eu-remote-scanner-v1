@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-05T14:41:17Z",
+  "generated_at": "2026-03-06T06:57:24Z",
   "counts": {
     "boards": 7,
     "raw_per_board": [
       [
         "highmetric",
-        5400
+        5200
       ],
       [
         "openzeppelin",
@@ -13,7 +13,7 @@
       ],
       [
         "yld",
-        3200
+        2800
       ],
       [
         "circleso",
@@ -25,7 +25,7 @@
       ],
       [
         "Parloa",
-        9400
+        10800
       ],
       [
         "charles",
@@ -71,7 +71,7 @@
       "id": 4780642101,
       "title": "Contract Product Manager",
       "location": "Remote EU",
-      "updated_at": "2026-02-19T09:27:20-05:00",
+      "updated_at": "2026-03-05T11:59:22-05:00",
       "url": "https://job-boards.eu.greenhouse.io/yld/jobs/4780642101"
     },
     {
