@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-09T07:08:24Z",
+  "generated_at": "2026-03-09T14:44:49Z",
   "counts": {
     "boards": 7,
     "raw_per_board": [
@@ -13,7 +13,7 @@
       ],
       [
         "yld",
-        2800
+        2600
       ],
       [
         "circleso",
@@ -43,7 +43,7 @@
       ],
       [
         "yld",
-        4
+        3
       ],
       [
         "circleso",
@@ -62,18 +62,9 @@
         0
       ]
     ],
-    "matches_written": 6
+    "matches_written": 5
   },
   "jobs": [
-    {
-      "board_name": "YLD",
-      "board": "yld",
-      "id": 4780642101,
-      "title": "Contract Product Manager",
-      "location": "Remote EU",
-      "updated_at": "2026-03-05T11:59:22-05:00",
-      "url": "https://job-boards.eu.greenhouse.io/yld/jobs/4780642101"
-    },
     {
       "board_name": "YLD",
       "board": "yld",

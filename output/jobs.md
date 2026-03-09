@@ -1,12 +1,11 @@
 # Greenhouse EU-remote jobs
 
-_Generated: 2026-03-09T07:08:24Z_
+_Generated: 2026-03-09T14:44:49Z_
 
-Total: **6**
+Total: **5**
 
 | Company | Title | Location | Updated | Link |
 |---|---|---|---:|---|
-| YLD | Contract Product Manager | Remote EU | 2026-03-05T11:59:22-05:00 | [open](https://job-boards.eu.greenhouse.io/yld/jobs/4780642101) |
 | YLD | Platform Engineer | Remote EU | 2026-02-06T06:51:48-05:00 | [open](https://job-boards.eu.greenhouse.io/yld/jobs/4774641101) |
 | YLD | Contract Senior Golang Engineer - UK/Europe based | Remote EU | 2026-02-05T14:29:13-05:00 | [open](https://job-boards.eu.greenhouse.io/yld/jobs/4722581101) |
 | YLD | Contract Senior Software Engineer (Python/AWS)  | Remote (EU) | 2026-02-05T14:27:36-05:00 | [open](https://job-boards.eu.greenhouse.io/yld/jobs/4611906101) |
