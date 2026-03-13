@@ -1,11 +1,12 @@
 # Greenhouse EU-remote jobs
 
-_Generated: 2026-03-13T07:00:53Z_
+_Generated: 2026-03-13T14:39:06Z_
 
-Total: **5**
+Total: **6**
 
 | Company | Title | Location | Updated | Link |
 |---|---|---|---:|---|
+| Parloa | Lead/Senior Solution Engineer (PreSales) Switzerland (f/m/d)* | Remotely in Europe  | 2026-03-13T09:38:21-04:00 | [open](https://job-boards.eu.greenhouse.io/parloa/jobs/4762639101) |
 | YLD | Platform Engineer | Remote EU | 2026-02-06T06:51:48-05:00 | [open](https://job-boards.eu.greenhouse.io/yld/jobs/4774641101) |
 | YLD | Contract Senior Golang Engineer - UK/Europe based | Remote EU | 2026-02-05T14:29:13-05:00 | [open](https://job-boards.eu.greenhouse.io/yld/jobs/4722581101) |
 | YLD | Contract Senior Software Engineer (Python/AWS)  | Remote (EU) | 2026-02-05T14:27:36-05:00 | [open](https://job-boards.eu.greenhouse.io/yld/jobs/4611906101) |

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-13T07:00:53Z",
+  "generated_at": "2026-03-13T14:39:06Z",
   "counts": {
     "boards": 7,
     "raw_per_board": [
@@ -25,11 +25,11 @@
       ],
       [
         "Parloa",
-        12000
+        12400
       ],
       [
         "charles",
-        1000
+        800
       ]
     ],
     "matched_per_board": [
@@ -55,16 +55,25 @@
       ],
       [
         "Parloa",
-        2
+        3
       ],
       [
         "charles",
         0
       ]
     ],
-    "matches_written": 5
+    "matches_written": 6
   },
   "jobs": [
+    {
+      "board_name": "Parloa",
+      "board": "Parloa",
+      "id": 4762639101,
+      "title": "Lead/Senior Solution Engineer (PreSales) Switzerland (f/m/d)*",
+      "location": "Remotely in Europe ",
+      "updated_at": "2026-03-13T09:38:21-04:00",
+      "url": "https://job-boards.eu.greenhouse.io/parloa/jobs/4762639101"
+    },
     {
       "board_name": "YLD",
       "board": "yld",
