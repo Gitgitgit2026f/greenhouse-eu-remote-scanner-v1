@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-24T07:10:33Z",
+  "generated_at": "2026-03-24T14:52:45Z",
   "counts": {
     "boards": 7,
     "raw_per_board": [
       [
         "highmetric",
-        5200
+        5000
       ],
       [
         "openzeppelin",
@@ -17,7 +17,7 @@
       ],
       [
         "circleso",
-        3200
+        3000
       ],
       [
         "Hivemq",
