@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-26T07:16:08Z",
+  "generated_at": "2026-03-26T14:58:41Z",
   "counts": {
     "boards": 7,
     "raw_per_board": [
@@ -66,6 +66,24 @@
   },
   "jobs": [
     {
+      "board_name": "Parloa",
+      "board": "Parloa",
+      "id": 4762639101,
+      "title": "Lead/Senior Solution Engineer - Switzerland",
+      "location": "Remotely in Europe ",
+      "updated_at": "2026-03-26T09:07:18-04:00",
+      "url": "https://job-boards.eu.greenhouse.io/parloa/jobs/4762639101"
+    },
+    {
+      "board_name": "Parloa",
+      "board": "Parloa",
+      "id": 4768706101,
+      "title": "Enterprise Account Executive - Switzerland",
+      "location": "Remotely in Europe ",
+      "updated_at": "2026-03-26T07:26:45-04:00",
+      "url": "https://job-boards.eu.greenhouse.io/parloa/jobs/4768706101"
+    },
+    {
       "board_name": "YLD",
       "board": "yld",
       "id": 4696761101,
@@ -82,15 +100,6 @@
       "location": "Remote EU",
       "updated_at": "2026-03-19T12:55:18-04:00",
       "url": "https://job-boards.eu.greenhouse.io/yld/jobs/4813279101"
-    },
-    {
-      "board_name": "Parloa",
-      "board": "Parloa",
-      "id": 4762639101,
-      "title": "Lead/Senior Solution Engineer (PreSales) Switzerland (f/m/d)*",
-      "location": "Remotely in Europe ",
-      "updated_at": "2026-03-13T09:38:21-04:00",
-      "url": "https://job-boards.eu.greenhouse.io/parloa/jobs/4762639101"
     },
     {
       "board_name": "YLD",
@@ -127,15 +136,6 @@
       "location": "Berlin Office; Remotely in Europe ; Remotely in Germany",
       "updated_at": "2026-02-01T12:38:07-05:00",
       "url": "https://job-boards.eu.greenhouse.io/parloa/jobs/4751058101"
-    },
-    {
-      "board_name": "Parloa",
-      "board": "Parloa",
-      "id": 4768706101,
-      "title": "Enterprise Account Executive - Switzerland (f/m/d)*",
-      "location": "Remotely in Europe ",
-      "updated_at": "2026-02-01T12:38:07-05:00",
-      "url": "https://job-boards.eu.greenhouse.io/parloa/jobs/4768706101"
     }
   ]
 }
