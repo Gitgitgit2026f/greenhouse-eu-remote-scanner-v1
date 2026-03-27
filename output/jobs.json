@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-26T14:58:41Z",
+  "generated_at": "2026-03-27T07:15:11Z",
   "counts": {
     "boards": 7,
     "raw_per_board": [
@@ -17,7 +17,7 @@
       ],
       [
         "circleso",
-        2000
+        1800
       ],
       [
         "Hivemq",
@@ -25,7 +25,7 @@
       ],
       [
         "Parloa",
-        12000
+        12200
       ],
       [
         "charles",
@@ -65,6 +65,15 @@
     "matches_written": 8
   },
   "jobs": [
+    {
+      "board_name": "Parloa",
+      "board": "Parloa",
+      "id": 4824273101,
+      "title": "Staff/Principal Software Engineer",
+      "location": "Berlin Office; Remotely in Europe ; Remotely in Germany",
+      "updated_at": "2026-03-26T19:31:39-04:00",
+      "url": "https://job-boards.eu.greenhouse.io/parloa/jobs/4824273101"
+    },
     {
       "board_name": "Parloa",
       "board": "Parloa",
@@ -127,15 +136,6 @@
       "location": "Remote (EU)",
       "updated_at": "2026-02-05T14:27:36-05:00",
       "url": "https://job-boards.eu.greenhouse.io/yld/jobs/4611906101"
-    },
-    {
-      "board_name": "Parloa",
-      "board": "Parloa",
-      "id": 4751058101,
-      "title": "Principal Software Engineer (f/m/d)*",
-      "location": "Berlin Office; Remotely in Europe ; Remotely in Germany",
-      "updated_at": "2026-02-01T12:38:07-05:00",
-      "url": "https://job-boards.eu.greenhouse.io/parloa/jobs/4751058101"
     }
   ]
 }
