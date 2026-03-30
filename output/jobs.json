@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-29T14:29:35Z",
+  "generated_at": "2026-03-30T07:49:34Z",
   "counts": {
     "boards": 7,
     "raw_per_board": [
@@ -55,25 +55,16 @@
       ],
       [
         "Parloa",
-        2
+        1
       ],
       [
         "charles",
         0
       ]
     ],
-    "matches_written": 7
+    "matches_written": 6
   },
   "jobs": [
-    {
-      "board_name": "Parloa",
-      "board": "Parloa",
-      "id": 4824273101,
-      "title": "Staff/Principal Software Engineer",
-      "location": "Berlin Office; Remotely in Europe ; Remotely in Germany",
-      "updated_at": "2026-03-26T19:31:39-04:00",
-      "url": "https://job-boards.eu.greenhouse.io/parloa/jobs/4824273101"
-    },
     {
       "board_name": "Parloa",
       "board": "Parloa",
