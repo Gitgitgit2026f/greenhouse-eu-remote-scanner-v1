@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-02T07:19:46Z",
+  "generated_at": "2026-04-02T14:50:29Z",
   "counts": {
     "boards": 7,
     "raw_per_board": [
@@ -17,7 +17,7 @@
       ],
       [
         "circleso",
-        2000
+        2200
       ],
       [
         "Hivemq",
@@ -55,32 +55,23 @@
       ],
       [
         "Parloa",
-        2
+        1
       ],
       [
         "charles",
         0
       ]
     ],
-    "matches_written": 7
+    "matches_written": 6
   },
   "jobs": [
-    {
-      "board_name": "Parloa",
-      "board": "Parloa",
-      "id": 4751058101,
-      "title": "Principal Software Engineer (f/m/d)*",
-      "location": "Berlin Office; Remotely in Europe ; Remotely in Germany",
-      "updated_at": "2026-04-01T07:14:32-04:00",
-      "url": "https://job-boards.eu.greenhouse.io/parloa/jobs/4751058101"
-    },
     {
       "board_name": "Parloa",
       "board": "Parloa",
       "id": 4768706101,
       "title": "Enterprise Account Executive - Switzerland",
       "location": "Remotely in Europe ",
-      "updated_at": "2026-03-30T12:13:46-04:00",
+      "updated_at": "2026-04-02T09:51:01-04:00",
       "url": "https://job-boards.eu.greenhouse.io/parloa/jobs/4768706101"
     },
     {
