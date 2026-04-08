@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-08T07:41:36Z",
+  "generated_at": "2026-04-08T15:04:52Z",
   "counts": {
     "boards": 7,
     "raw_per_board": [
       [
         "highmetric",
-        4200
+        4000
       ],
       [
         "openzeppelin",
@@ -13,7 +13,7 @@
       ],
       [
         "yld",
-        2200
+        1800
       ],
       [
         "circleso",
@@ -25,7 +25,7 @@
       ],
       [
         "Parloa",
-        10800
+        11000
       ],
       [
         "charles",
@@ -43,7 +43,7 @@
       ],
       [
         "yld",
-        6
+        4
       ],
       [
         "circleso",
@@ -55,16 +55,25 @@
       ],
       [
         "Parloa",
-        1
+        2
       ],
       [
         "charles",
         0
       ]
     ],
-    "matches_written": 7
+    "matches_written": 6
   },
   "jobs": [
+    {
+      "board_name": "Parloa",
+      "board": "Parloa",
+      "id": 4824273101,
+      "title": "Staff/Principal Software Engineer",
+      "location": "Berlin Office; Munich Office; Remotely in Europe ",
+      "updated_at": "2026-04-08T10:15:48-04:00",
+      "url": "https://job-boards.eu.greenhouse.io/parloa/jobs/4824273101"
+    },
     {
       "board_name": "YLD",
       "board": "yld",
@@ -104,29 +113,11 @@
     {
       "board_name": "YLD",
       "board": "yld",
-      "id": 4774641101,
-      "title": "Platform Engineer",
-      "location": "Remote EU",
-      "updated_at": "2026-02-06T06:51:48-05:00",
-      "url": "https://job-boards.eu.greenhouse.io/yld/jobs/4774641101"
-    },
-    {
-      "board_name": "YLD",
-      "board": "yld",
       "id": 4722581101,
       "title": "Contract Senior Golang Engineer - UK/Europe based",
       "location": "Remote EU",
       "updated_at": "2026-02-05T14:29:13-05:00",
       "url": "https://job-boards.eu.greenhouse.io/yld/jobs/4722581101"
-    },
-    {
-      "board_name": "YLD",
-      "board": "yld",
-      "id": 4611906101,
-      "title": "Contract Senior Software Engineer (Python/AWS) ",
-      "location": "Remote (EU)",
-      "updated_at": "2026-02-05T14:27:36-05:00",
-      "url": "https://job-boards.eu.greenhouse.io/yld/jobs/4611906101"
     }
   ]
 }
