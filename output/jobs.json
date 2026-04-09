@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-09T07:43:55Z",
+  "generated_at": "2026-04-09T15:17:44Z",
   "counts": {
     "boards": 7,
     "raw_per_board": [
@@ -13,11 +13,11 @@
       ],
       [
         "yld",
-        1800
+        1600
       ],
       [
         "circleso",
-        2200
+        2000
       ],
       [
         "Hivemq",
@@ -43,7 +43,7 @@
       ],
       [
         "yld",
-        3
+        2
       ],
       [
         "circleso",
@@ -62,7 +62,7 @@
         0
       ]
     ],
-    "matches_written": 5
+    "matches_written": 4
   },
   "jobs": [
     {
@@ -100,15 +100,6 @@
       "location": "Remote EU",
       "updated_at": "2026-03-19T12:55:18-04:00",
       "url": "https://job-boards.eu.greenhouse.io/yld/jobs/4813279101"
-    },
-    {
-      "board_name": "YLD",
-      "board": "yld",
-      "id": 4722581101,
-      "title": "Contract Senior Golang Engineer - UK/Europe based",
-      "location": "Remote EU",
-      "updated_at": "2026-02-05T14:29:13-05:00",
-      "url": "https://job-boards.eu.greenhouse.io/yld/jobs/4722581101"
     }
   ]
 }

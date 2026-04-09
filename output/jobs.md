@@ -1,8 +1,8 @@
 # Greenhouse EU-remote jobs
 
-_Generated: 2026-04-09T07:43:55Z_
+_Generated: 2026-04-09T15:17:44Z_
 
-Total: **5**
+Total: **4**
 
 | Company | Title | Location | Updated | Link |
 |---|---|---|---:|---|
@@ -10,4 +10,3 @@ Total: **5**
 | Parloa | Enterprise Account Executive - Switzerland | Remotely in Europe  | 2026-04-02T09:51:01-04:00 | [open](https://job-boards.eu.greenhouse.io/parloa/jobs/4768706101) |
 | YLD | Contract Senior Golang Engineer - UK based | Remote EU | 2026-03-20T09:52:11-04:00 | [open](https://job-boards.eu.greenhouse.io/yld/jobs/4696761101) |
 | YLD | Contract Data Engineer | Remote EU | 2026-03-19T12:55:18-04:00 | [open](https://job-boards.eu.greenhouse.io/yld/jobs/4813279101) |
-| YLD | Contract Senior Golang Engineer - UK/Europe based | Remote EU | 2026-02-05T14:29:13-05:00 | [open](https://job-boards.eu.greenhouse.io/yld/jobs/4722581101) |
