@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-08T15:04:52Z",
+  "generated_at": "2026-04-09T07:43:55Z",
   "counts": {
     "boards": 7,
     "raw_per_board": [
       [
         "highmetric",
-        4000
+        3800
       ],
       [
         "openzeppelin",
@@ -25,7 +25,7 @@
       ],
       [
         "Parloa",
-        11000
+        11400
       ],
       [
         "charles",
@@ -43,7 +43,7 @@
       ],
       [
         "yld",
-        4
+        3
       ],
       [
         "circleso",
@@ -62,7 +62,7 @@
         0
       ]
     ],
-    "matches_written": 6
+    "matches_written": 5
   },
   "jobs": [
     {
@@ -73,15 +73,6 @@
       "location": "Berlin Office; Munich Office; Remotely in Europe ",
       "updated_at": "2026-04-08T10:15:48-04:00",
       "url": "https://job-boards.eu.greenhouse.io/parloa/jobs/4824273101"
-    },
-    {
-      "board_name": "YLD",
-      "board": "yld",
-      "id": 4829316101,
-      "title": "Contract Senior Data Scientist",
-      "location": "EU Remote",
-      "updated_at": "2026-04-07T09:32:18-04:00",
-      "url": "https://job-boards.eu.greenhouse.io/yld/jobs/4829316101"
     },
     {
       "board_name": "Parloa",
