@@ -1,7 +1,7 @@
 name: Scan Greenhouse EU-remote jobs
 
 on:
-  schedule:
+  # schedule:
     # GitHub cron is UTC.
     # Europe/Stockholm in januari (wintertijd) = UTC+1
     # 07:00 Stockholm -> 06:00 UTC
