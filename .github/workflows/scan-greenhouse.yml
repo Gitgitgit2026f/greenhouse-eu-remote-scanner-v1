@@ -6,8 +6,8 @@ on:
     # Europe/Stockholm in januari (wintertijd) = UTC+1
     # 07:00 Stockholm -> 06:00 UTC
     # 15:00 Stockholm -> 14:00 UTC
-    - cron: "0 6 * * *"
-    - cron: "0 14 * * *"
+    # - cron: "0 6 * * *"
+    # - cron: "0 14 * * *"
   workflow_dispatch: {}
 
 permissions:
